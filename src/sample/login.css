@@ -1,0 +1,7 @@
+
+.anchor {
+    -fx-background-image: url("gif1.gif");
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
